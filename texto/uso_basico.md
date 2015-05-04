@@ -237,7 +237,7 @@ Ahora vamos a ver una orden que será tu gran amiga:
 
 `git status`
 
-`git status` te da un resumen de cómo están las cosas ahora mismo respecto a la versión del repositorio (concretamente, respecto al HEAD). Qué archivos has modificado, que hay en el Index, etc (también te cuenta cosas como en qué rama estás, pero eso lo veremos más adelante). Cada vez que no tengas muy claro que has cambiado y qué no, consulta `git status`.
+`git status` te da un resumen de cómo están las cosas ahora mismo respecto a la versión del repositorio (concretamente, respecto al HEAD). Qué archivos has modificado, qué hay en el Index, etc (también te cuenta cosas como en qué rama estás, pero eso lo veremos más adelante). Cada vez que no tengas muy claro qué has cambiado y qué no, consulta `git status`.
 
 En principio, si no has modificado nada, el mensaje básico que te da `git status` es este:
 
